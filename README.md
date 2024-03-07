@@ -26,23 +26,14 @@ Para utilizar as APIs de visão computacional do Azure, você precisa criar um r
 
 ### 3. Obter Chave de Acesso:
 
-* Navegue até o seu recurso no portal.
-* Na seção **Visão Geral**, clique em **Chaves de Acesso**.
-* Copie a chave **Primária** ou **Secundária**. Você precisará dela para usar as APIs de visão computacional.
-
-### 4. Testar a API:
+* Navegue até o seu recurso no portal vision studio. (https://portal.vision.cognitive.azure.com/gallery/featured)
+* Selecionando uma categoria de ML, você pode descer um pouco a tela.
+* Na seção **Next steps**, clique em **Try out the SDK**.
+* Copie a chave **Resource key** ou **Vision Endpoint**. Você precisará dela para usar as APIs de visão computacional.
+* Depois um pouco mais abaixo é possível ver um projeto "Quickstart" e você precisará delas, para rodar esse projeto também.
 
 ![Chaves da API Azure Vision](https://raw.githubusercontent.com/VicLira/azureml-ai900-ocr/main/imgs_readme/chave_azure.png))
 
-
-* Acesse o portal `dev.azure.com`.
-* Crie um novo projeto.
-* No menu esquerdo, selecione **+ Novo** > **API**.
-* Pesquise por "Visão Computacional" e selecione a API **Computer Vision**.
-* Clique em **Criar**.
-* Insira a chave de acesso que você copiou no passo anterior.
-* Clique em **Testar**.
-* Selecione a operação que deseja testar e siga as instruções.
 
 ### Recursos Adicionais:
 
