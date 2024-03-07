@@ -32,7 +32,7 @@ Para utilizar as APIs de visão computacional do Azure, você precisa criar um r
 * Copie a chave **Resource key** ou **Vision Endpoint**. Você precisará dela para usar as APIs de visão computacional.
 * Depois um pouco mais abaixo é possível ver um projeto "Quickstart" e você precisará delas, para rodar esse projeto também.
 
-![Chaves da API Azure Vision](https://raw.githubusercontent.com/VicLira/azureml-ai900-ocr/main/imgs_readme/chave_azure.png))
+![Chaves da API Azure Vision](https://raw.githubusercontent.com/VicLira/azureml-ai900-ocr/main/imgs_readme/chave_azure.png)
 
 
 ### Recursos Adicionais:
